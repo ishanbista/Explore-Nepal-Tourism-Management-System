@@ -42,7 +42,7 @@ $dbname = "explore_nepal";
 Open browser and go to: <br>
 http://localhost/explore-nepal/
 
-#Screenshots
+# Screenshots
 ![Image](https://github.com/user-attachments/assets/bfc10179-399c-492c-a06f-70b3e0282a7c)
 
 ![Image](https://github.com/user-attachments/assets/789f2c9c-115d-4447-ab03-da1b37f72c1d)
